@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.sh/github.com/trijaze.svg?label=Total%20Views&color=a00c0e&labelColor=424141&logo=archlinux)](https://hits.sh/github.com/trijaze/)
+[![Hits](https://hits.sh/github.com/trijaze.svg?label=Total%20Views&color=a00c0e&labelColor=000000&logo=archlinux)](https://hits.sh/github.com/trijaze/)
